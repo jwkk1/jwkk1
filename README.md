@@ -6,7 +6,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/react-native-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </p>
 
 </div>
