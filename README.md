@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jwkk1)](https://github.com/LordDashMe/github-contribution-stats/)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **jwkk1/jwkk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
